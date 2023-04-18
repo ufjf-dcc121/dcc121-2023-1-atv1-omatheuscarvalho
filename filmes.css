@@ -39,9 +39,9 @@ table {
     width: 100%;
 }
 
-tfoot {
+footer {
+    text-align: center;
+    padding: 10px 20px;
     background-color: #333;
     color: #fff;
-    text-align: center;
-    padding: 10px;
 }
